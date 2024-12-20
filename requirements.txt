@@ -1,5 +1,4 @@
 streamlit
 numpy
-math
 seaborn
 matplotlib
